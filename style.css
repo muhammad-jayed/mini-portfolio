@@ -23,10 +23,10 @@ body{
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(/image/5532253.jpg);
     background-position: center;
-    background-color:#07080B;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
+    background-color: #07080B;
 }
 
 
@@ -468,6 +468,7 @@ span{
         width: 251px;
         margin-left: -245px;
         margin-top: -51px;
+        o
     }
 
     .about-div .textt{
