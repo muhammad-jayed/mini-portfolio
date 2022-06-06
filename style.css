@@ -339,6 +339,7 @@ span{
         width: 61%;
         height: 51%;
         background: black;
+        border: 3px solid #2ecc71;
         z-index: 2;
         padding:6% 9% ;
         transition: .3s right;
